@@ -34,7 +34,7 @@ header{
 }
 
 .nav-masthead .nav-link {
-  color: rgba(255, 255, 255, .5);
+  color: #da39bc;
   border-bottom: .25rem solid transparent;
 }
 
@@ -50,4 +50,8 @@ header{
 .nav-masthead .active {
   color: #fff;
   border-bottom-color: #fff;
+}
+
+.titulocover{
+  color: magenta;
 }
